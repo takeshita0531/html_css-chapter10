@@ -68,6 +68,7 @@
     background-position: bottom;
     background-size: cover;
   }
+  
   footer {
     background-color: #AAAAAA;
     padding-bottom: 50px;
@@ -100,6 +101,4 @@
       .footer {
         width: 100%;
       }
-
-
   }
